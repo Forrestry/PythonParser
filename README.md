@@ -2,7 +2,7 @@
 ## Objective
 ### The objective of this program is to create a program using python that can parse xml formatted data
 
-## List of tasks this program needs to do in order to work (cross out when finished)
+### List of tasks this program needs to do in order to work (cross out when finished)
 _Will probably be expanded upon a little later when I actually know what I'm doing_
 1. Read a text file
 2. Seperate text into a list
